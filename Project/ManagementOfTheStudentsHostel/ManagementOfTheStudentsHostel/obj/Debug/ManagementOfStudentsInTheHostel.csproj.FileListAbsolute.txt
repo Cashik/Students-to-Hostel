@@ -1,0 +1,16 @@
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\bin\Debug\ManagementOfTheStudentsHostel.exe.config
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\bin\Debug\ManagementOfTheStudentsHostel.exe
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\bin\Debug\ManagementOfTheStudentsHostel.pdb
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfStudentsInTheHostel.csprojResolveAssemblyReference.cache
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfTheStudentsHostel.LoginForm.resources
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfTheStudentsHostel.Properties.Resources.resources
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfStudentsInTheHostel.csproj.GenerateResource.Cache
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfTheStudentsHostel.exe
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfTheStudentsHostel.pdb
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfTheStudentsHostel.MainForm.resources
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\bin\Debug\Users\admin\info.txt
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfTheStudentsHostel.RegistrationForm.resources
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\bin\Debug\Users\moderator\info.txt
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\bin\Debug\Users\student\info.txt
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\obj\Debug\ManagementOfTheStudentsHostel.InfoForm.resources
+C:\Users\Cashik\Desktop\works\Students-to-Hostel\Project\ManagementOfTheStudentsHostel\ManagementOfTheStudentsHostel\bin\Debug\instructions.txt
